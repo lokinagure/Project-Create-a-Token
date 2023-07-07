@@ -36,6 +36,15 @@ This Solidity smart contract is designed to complete these requirements ->
 
 >   totalSupply: Gives the total supply of the token.
 
+
+   <a href="https://www.loom.com/share/7e8205feb6334d78a9aea185478036e6">
+    <p>A Walkthrough of Creating a Simple Token 🚀 - Watch Video</p>
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/7e8205feb6334d78a9aea185478036e6-with-play.gif">
+    </a>
+    
+
+  
+
 # License
 This project is licensed under the MIT License. 
 You can find this in the code as "SPDX-License-Identifier: MIT" with a comment(//) ahead in the first line of code.
